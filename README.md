@@ -1,1 +1,1 @@
-# ProgrammerAnkit-Diamond-price-prediction-using-regression--model
+# Diamond-price-prediction-using-regression--model
